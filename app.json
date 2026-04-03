@@ -8,11 +8,11 @@
     "tivi": {
       "apps": [
         {
-          "name": "Truyền Hình_CòTV",
+          "name": "KHO APP V1",
           "versionName": "1.1.3",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
           "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
@@ -23,7 +23,7 @@
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.pn",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/sporstv.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"
