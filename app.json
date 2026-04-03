@@ -8,14 +8,14 @@
     "tivi": {
       "apps": [
         {
-          "name": "KHO APP V1",
-          "versionName": "1.1.3",
+          "name": "KHÁNH IT STORE V2",
+          "versionName": "1.2",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
-          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "note": "Kho app BY Khánh it V2.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
           ]
         },
         {
