@@ -1,45 +1,12 @@
 {
   "data": {
     "notification": {
-      "note": "PHIÊN BẢN 1.1 - 🔥 TOOL XIAOMI TV KHÁNH IT PRO - CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ - LIÊN HỆ: 0967 341 608",
-      "photo": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/thongbao.png"
+      "note": "PHIÊN BẢN USB - 🔥 TOOL XIAOMI TV KHÁNH IT PRO - CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ - LIÊN HỆ: 0967 341 608",
+      "photo": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/QUANGCAOV2.png"
     },
 
     "tivi": {
       "apps": [
-        {
-          "name": "KHÁNH IT STORE V2",
-          "versionName": "1.2",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
-          "note": "Kho app BY Khánh it V2.",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình_SportTV",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/logo1.pn",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
-          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_SportTV/anh1.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình_MonsterTV",
-          "versionName": "3.2.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_MonsterTV/logo2.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Monster-TV_3.2.0.apk",
-          "note": "Xem truyền hình, bóng đá miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_MonsterTV/anh1.png"
-          ]
-        },
         {
           "name": "Truyền Hình_iMedia",
           "versionName": "mới nhất",
@@ -51,15 +18,14 @@
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
         },
-        {
-          "name": "Truyền hình_DLtivi",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/DLStore_v10.1.apk",
-          "note": "Ứng dụng xem TV miễn phí.",
+        "name": "Truyền Hình_CòTV",
+          "versionName": "1.1.3",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
+          "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
           ]
         },
         {
@@ -139,12 +105,13 @@
     "entertainment": {
       "apps": [
          {
-          "name": "Netflix",
-          "versionName": "9.53.0",
+           "name": "FIX YOUTOBE",
+          "versionName": "Nội Địa 2.4.4",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/YOUTOBE/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+          "note": "YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
         {
           "name": "Netflix",
@@ -240,20 +207,31 @@
     "utilities": {
       "apps": [
         {
-          "name": "Truyền Màn Hình",
-          "versionName": "5.0.6",
+           "name": "PROJECT LAUNCHER",
+          "versionName": "3.12.1",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Air.Receiver.5.0.6.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
-        },
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
+       {
+           "name": "FIRE LAUNCHER",
+          "versionName": "9.53.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/fire.launcher.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+         },
         {
-          "name": "AirScreen",
-          "versionName": "2.14.1",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/AirScreen.v2.14.1.Mod.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
+          "name": "File Manager Plus",
+        "versionName": "3.2.2",
+        "type": "Tiện ích",
+        "logo": "https://lh3.googleusercontent.com/d/1rkFBLNZEm_nlJGZ2iUbvukXxMaCRQ9BS",
+        "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
+        "note": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
+        "preview": [
+          "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
+          "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN" ]
         },
         {
           "name": "Miracast",
