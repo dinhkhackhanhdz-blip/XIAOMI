@@ -10,7 +10,7 @@
         {
           "name": "File Manager Plus",
         "versionName": "3.2.2",
-        "type": "Tiện ích",
+        "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1rkFBLNZEm_nlJGZ2iUbvukXxMaCRQ9BS",
         "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
         "note": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
@@ -20,17 +20,17 @@
           ]
         },
         {
-          "name": "FIRE LAUNCHER",
+          "name": "GIAO DIỆN FIRE LAUNCHER",
           "versionName": "9.53.0",
-          "type": "Tiện ích",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/fire.launcher.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
          },
         {
-          "name": "PROJECT LAUNCHER V1",
+          "name": "GIAO DIỆN PROJECT LAUNCHER",
           "versionName": "4.6.6",
-          "type": "Tiện ích",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/giaodienproject.apk",
           "note": "Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
