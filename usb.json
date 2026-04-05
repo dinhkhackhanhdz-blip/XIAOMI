@@ -139,20 +139,21 @@
     "entertainment": {
       "apps": [
          {
-          "name": "Netflix",
-          "versionName": "9.53.0",
+          "name": "FIX YOUTOBE",
+          "versionName": "Nội Địa 2.4.4",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/YOUTOBE/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+          "note": "YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
         },
         {
-          "name": "Netflix",
-          "versionName": "9.50.0",
+          "name": "Phim30",
+          "versionName": "Mới nhất",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.50.2.build.8.63993.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phim30.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg"]
         },
         {
           "name": "Phim Hay",
