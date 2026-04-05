@@ -154,20 +154,23 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophim30.jpg"]
         },
         {
-          "name": "Phim Hay",
-          "versionName": "2.4.4",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/PhimHayVer244.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/PhimHay/anh.png"]
+         "name": "KHÁNH VTV",
+          "versionName": "2.2.2",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/app_banner2.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/khanhtv2.2.2.apk",
+          "note": "Ứng dụng xem VTV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/app_banner2.png" ]
         },
         {
-          "name": "Monplayer",
-          "versionName": "Mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/monplayer.png"]
+          "name": "KHÁNH MOVIE",
+          "versionName": "1.1.8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/khophim.apk",
+          "note": "Ứng dụng xem phim chiếu rạp miễn phí.",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png"]
         },
         {
           "name": "Phim 4K",
