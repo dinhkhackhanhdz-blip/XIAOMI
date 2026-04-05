@@ -242,7 +242,7 @@
     "utilities": {
       "apps": [
         {
-          "name": "Truyền Màn Hình",
+          "name": "1 CẤP QUYỀN",
           "versionName": "5.0.6",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
@@ -250,7 +250,7 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
         },
         {
-          "name": "AirScreen",
+          "name": "2 SET PHÍM HOME",
           "versionName": "2.14.1",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/logo.png",
@@ -258,7 +258,7 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"]
         },
         {
-          "name": "Miracast",
+          "name": "3 SET TIẾNG VIỆT",
           "versionName": "1.3.2",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/logo1.png",
@@ -266,7 +266,7 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Miracast/anh1.png"]
         },
         {
-          "name": "trình Chiếu Web",
+          "name": "SETTING XIAOMI",
           "versionName": "2.2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/logo1.png",
@@ -274,7 +274,7 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/trình Chiếu Web/anh1.png"]
         },
         {
-          "name": "file màn hình",
+          "name": "FILE CẤP QUYỀN PROJECT LAUCHER",
           "versionName": "phiên bản mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
