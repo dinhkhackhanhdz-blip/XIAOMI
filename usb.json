@@ -8,14 +8,15 @@
     "tivi": {
       "apps": [
         {
-          "name": "KHÁNH IT STORE V2",
-          "versionName": "1.2",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
-          "note": "Kho app BY Khánh it V2.",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
+          "name": "File Manager Plus",
+        "versionName": "3.2.2",
+        "type": "Tiện ích",
+        "logo": "https://lh3.googleusercontent.com/d/1rkFBLNZEm_nlJGZ2iUbvukXxMaCRQ9BS",
+        "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
+        "note": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
+        "preview": [
+          "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
+          "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
           ]
         },
         {
