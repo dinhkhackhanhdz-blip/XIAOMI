@@ -311,12 +311,22 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
-          "name": "BẢO STORE",
-          "versionName": "06.21",
-          "type": "Giải Trí",
+          "name": "TRUYỀN HÌNH IMEDIA",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/baostore.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+        },
+        {
+          "name": "Truyền Hình_CòTV",
+          "versionName": "1.1.4",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
+          "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"]
         }
       ]
      },
@@ -324,11 +334,11 @@
     "utilities": {
       "apps": [
         {
-         "name": "3 - SET TIẾNG VIỆT",
-          "versionName": "1.3.2",
-          "type": "Tiện ích",
+          "name": "BẢO STORE",
+          "versionName": "06.21",
+          "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/5_SETTIENGVIET.apk",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/baostore.apk",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
@@ -340,7 +350,7 @@
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
-          "name": "5 - CẤP QUYỀN 8.0 - ĐANG CẬP NHẬT",
+          "name": "KHO ỨNG DỤNG",
           "versionName": "1.3.2",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
