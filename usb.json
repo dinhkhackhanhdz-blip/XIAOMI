@@ -155,6 +155,15 @@
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
+          "name": "YOUTOBE QUỐC TẾ",
+          "versionName": "Tivi Quốc Tế",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/YOUTOBE/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtube.apk",
+          "note": "YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"]
+        },
+        {
           "name": "XEM PHIM CHIẾU RẠP - PHIM 30",
           "versionName": "Mới nhất",
           "type": "Giải Trí",
