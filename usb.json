@@ -132,17 +132,6 @@
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
           ]
-         },
-         {
-          "name": "Truyền Hình_CòTV",
-          "versionName": "1.1.4",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
-          "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
-          ]
         },
         {
           "name": "HOME TV TO ĐÌNH LẬP",
@@ -400,12 +389,21 @@
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
-          "name": "TRÌN DUYỆT CỐC CỐC",
+          "name": "TRÌNH DUYỆT CỐC CỐC",
           "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+        },
+         {
+          "name": "Truyền Hình_CòTV",
+          "versionName": "1.1.4",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
+          "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"]
         },
         {
           "name": "MÁY CHIẾU STORE",
