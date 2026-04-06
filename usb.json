@@ -152,6 +152,16 @@
           ]
         },
         {
+          "name": "6 - SETTING XIAOMI",
+          "versionName": "2.2.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/6_StartSettings.1.0.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
+        },
+        {
           "name": "DL STORE 16.3",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
@@ -279,7 +289,7 @@
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
-          "name": "TizenYoutube - YOUTOBE NO VOICE",
+          "name": "ĐANG CẬP NHẬT",
           "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -340,13 +350,29 @@
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/baostore.apk",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
-        },
+         },
         {
-          "name": "TẢI FILE CẤP QUYỀN GIAO DIỆN",
-          "versionName": "2.14.1",
+          "name": "MÁY CHIẾU STORE",
+          "versionName": "mới nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/CAPQUYEN.apk",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/MovieStore_v1.2.apk",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+        },
+         {
+          "name": "KHO APP HD STORE",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/hdstore.apk",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+        },
+        {
+          "name": "DL STORE 16.3",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/DLStore_v16.0.3.apk",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
