@@ -25,7 +25,9 @@
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/1_CAPQUYEN.apk",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
           },
         {
           "name": "2 - GIAO DIỆN FIRE LAUNCHER",
@@ -155,11 +157,11 @@
     "entertainment": {
       "apps": [
          {
-           "name": "2 -  CẤP QUYỀN 5.0",
-          "versionName": "5.0",
-          "type": "Tiện ích",
+          "name": "YOUTOBE NO VOICE",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/1_CAPQUYEN.apk",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
        },
         {
