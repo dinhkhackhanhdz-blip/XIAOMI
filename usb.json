@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": "PHIÊN BẢN CÀI ONLINE CHO KHÁCH Ở XA QUA USB - 🔥 TOOL XIAOMI TV KHÁNH IT PRO - CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": "PHIÊN BẢN CÀI ONLINE CHO KHÁCH Ở XA QUA USB - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/QUANGCAOV2.png"
     },
 
@@ -9,7 +9,7 @@
       "apps": [
         {
           "name": "1 - QUẢN LÝ TẬP TIN",
-        "versionName": "3.2.2",
+        "versionName": "4.6",
         "type": "Truyền hình trực tuyến",
         "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
         "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
@@ -20,7 +20,7 @@
           ]
        },
         {
-          "name": "GIAO DIỆN FIRE LAUNCHER",
+          "name": "2 - GIAO DIỆN FIRE LAUNCHER",
           "versionName": "9.53.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -30,7 +30,7 @@
           ]
         },
         {
-          "name": "PROJECT LAUCHER GỐC",
+          "name": "2 - PROJECT LAUCHER GỐC",
           "versionName": "9.53.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -40,7 +40,7 @@
           ]
          },
         {
-          "name": "GIAO DIỆN PROJECT LAUNCHER",
+          "name": "2 - GIAO DIỆN PROJECT LAUNCHER",
           "versionName": "4.6.6",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -51,7 +51,7 @@
           ]
        },
         {
-          "name": "PROJECT LAUNCHER V2",
+          "name": "2 - PROJECT LAUNCHER V2",
           "versionName": "3.12.1",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
@@ -60,18 +60,7 @@
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
         },
         {
-          "name": "TRUYỀN HÌNH IMEDIA",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
-          ]
-        },
-        {
-          "name": "CÀI ĐẶT ANDROID",
+          "name": "5 - CÀI ĐẶT ANDROID",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -82,7 +71,7 @@
           ]
         },
         {
-          "name": "CÀI ĐẶT MITV",
+          "name": "6 - CÀI ĐẶT MITV",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
@@ -403,6 +392,15 @@
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+       },
+        {
+          "name": "TRUYỀN HÌNH IMEDIA",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
          {
