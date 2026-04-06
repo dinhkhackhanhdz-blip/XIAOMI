@@ -100,6 +100,26 @@
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
           ]
+           },
+        {
+         "name": "3 - SET TIẾNG VIỆT",
+          "versionName": "1.3.2",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/5_SETTIENGVIET.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
+        },
+        {
+          "name": "TẢI FILE CẤP QUYỀN GIAO DIỆN",
+          "versionName": "2.14.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/CAPQUYEN.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
         },
         {
           "name": "BẢN LƯU GIAO DIỆN PROJECT CHUẨN",
