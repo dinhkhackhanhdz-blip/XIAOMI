@@ -20,6 +20,14 @@
           ]
        },
         {
+           "name": "2 -  CẤP QUYỀN 5.0",
+          "versionName": "5.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/1_CAPQUYEN.apk",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
+          },
+        {
           "name": "2 - GIAO DIỆN FIRE LAUNCHER",
           "versionName": "9.53.0",
           "type": "Truyền hình trực tuyến",
