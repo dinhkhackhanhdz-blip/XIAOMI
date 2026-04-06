@@ -49,6 +49,15 @@
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png"
           ]
+       },
+        {
+          "name": "PROJECT LAUNCHER V2",
+          "versionName": "3.12.1",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
         },
         {
           "name": "TRUYỀN HÌNH IMEDIA",
