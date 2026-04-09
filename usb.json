@@ -70,7 +70,18 @@
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
         },
         {
-          "name": "4 - CÀI ĐẶT ANDROID",
+          "name": "4 - SET PHÍM HOME XIAOMI",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
+          "note": "Set phím home mặc định.",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
+        },
+        {
+          "name": "5 - CÀI ĐẶT ANDROID",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
