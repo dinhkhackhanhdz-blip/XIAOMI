@@ -40,6 +40,16 @@
           ]
         },
         {
+          "name": "3 - PROJECT LAUCHER",
+          "versionName": "4.70",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
+          "note": "GIAO DIỆN TIẾNG VIỆT DỄ CÀI.",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
+        },
+        {
           "name": "3 - PROJECT LAUCHER GỐC",
           "versionName": "9.53.0",
           "type": "Truyền hình trực tuyến",
