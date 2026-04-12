@@ -97,7 +97,63 @@
       "btn": "#64748b"
     },
     {
-      "order": 12,
+      "order": 13,
+      "title": "DL STORE",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/DLStore_v16.0.3.apkk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 14,
+      "title": "QUẢN LÝ TẬP TIN",
+      "desc": "Mới nhất",
+      "link": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 15,
+      "title": "ADB CẤP QUYỀN 5.0",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/1_CAPQUYEN.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 16,
+      "title": "GIAO DIỆN FIRE LAUNCHER",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/fire.launcher.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 17,
+      "title": "GIAO DIỆN PROJECTIVE",
+      "desc": "Phiên bản 4.70",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 18,
+      "title": "GIAO DIỆN PROJECTIVE",
+      "desc": "Phiên bản 4.66",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 19,
+      "title": "SET PHÍM HOME GIAO DIỆN",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 20,
       "title": "GIAO DIỆN EMONT UI",
       "desc": "Mới nhất",
       "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
@@ -105,7 +161,23 @@
       "btn": "#64748b"
     },
     {
-      "order": 12,
+      "order": 21,
+      "title": "SETTING TIẾNG VIỆT",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 22,
+      "title": "TRÌNH TẢI APK CHO XIAOMI",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 23,
       "title": "GIAO DIỆN EMONT UI",
       "desc": "Mới nhất",
       "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
@@ -113,39 +185,7 @@
       "btn": "#64748b"
     },
     {
-      "order": 12,
-      "title": "GIAO DIỆN EMONT UI",
-      "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
-      "color": "#64748b",
-      "btn": "#64748b"
-    },
-    {
-      "order": 12,
-      "title": "GIAO DIỆN EMONT UI",
-      "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
-      "color": "#64748b",
-      "btn": "#64748b"
-    },
-    {
-      "order": 12,
-      "title": "GIAO DIỆN EMONT UI",
-      "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
-      "color": "#64748b",
-      "btn": "#64748b"
-    },
-    {
-      "order": 12,
-      "title": "GIAO DIỆN EMONT UI",
-      "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
-      "color": "#64748b",
-      "btn": "#64748b"
-    },
-    {
-      "order": 12,
+      "order": 24,
       "title": "GIAO DIỆN EMONT UI",
       "desc": "Mới nhất",
       "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
