@@ -1,0 +1,22 @@
+{
+  "contact": {
+    "title": "LIÊN HỆ KHÁNH IT",
+    "items": [
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com",
+        "icon": "📘"
+      },
+      {
+        "name": "Zalo",
+        "url": "https://zalo.me/0967341608",
+        "icon": "💬"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com",
+        "icon": "▶️"
+      }
+    ]
+  }
+}

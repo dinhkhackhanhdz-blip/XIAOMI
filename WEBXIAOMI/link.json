@@ -1,0 +1,100 @@
+{
+  "tools": [
+    {
+      "order": 1,
+      "title": "KHO ỨNG DỤNG PC",
+      "desc": "Tải phần mềm máy tính",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHO.UNG.DUNG.exe",
+      "color": "#ef4444",
+      "btn": "red"
+    },
+    {
+      "order": 2,
+      "title": "ULTRAVIEW",
+      "desc": "Điều khiển từ xa Remote PC",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
+      "color": "#facc15",
+      "btn": "#eab308"
+    },
+    {
+      "order": 3,
+      "title": "WINDOWS FIX",
+      "desc": "Sửa lỗi hệ thống PC",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHANHIT_CRACK_V2.exe",
+      "color": "#00c853",
+      "btn": "#00c853"
+    },
+    {
+      "order": 4,
+      "title": "ADB TOOL ATV TOOL",
+      "desc": "Điều khiển Android",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/atvTools_v1.2.0_b34.apk",
+      "color": "#38bdf8",
+      "btn": "#38bdf8"
+    },
+    {
+      "order": 5,
+      "title": "AHK BUILD EXE",
+      "desc": "Tạo exe cho PC",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/AutoHotkey_2.0.23_setup.exe",
+      "color": "#a855f7",
+      "btn": "#a855f7"
+    },
+    {
+      "order": 6,
+      "title": "BAT TO EXE",
+      "desc": "TẠO TOOL Android TV",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/bat-to-exe-converter.exe",
+      "color": "#f97316",
+      "btn": "#f97316"
+    },
+    {
+      "order": 7,
+      "title": "LD PLAYER 9",
+      "desc": "Chỉnh sửa APK",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
+      "color": "#22c55e",
+      "btn": "#22c55e"
+    },
+    {
+      "order": 8,
+      "title": "TOOL CÀI TIVI XIAOMI",
+      "desc": "Project launcher v1",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/TOOL.KHANH.IT.PROJECT.V3.exe",
+      "color": "#e11d48",
+      "btn": "#e11d48"
+    },
+    {
+      "order": 9,
+      "title": "DRIVER PACK",
+      "desc": "Driver máy tính",
+      "link": "https://example.com/9.exe",
+      "color": "#0ea5e9",
+      "btn": "#0ea5e9"
+    },
+    {
+      "order": 10,
+      "title": "NET FIX",
+      "desc": "Sửa mạng internet",
+      "link": "https://example.com/10.exe",
+      "color": "#14b8a6",
+      "btn": "#14b8a6"
+    },
+    {
+      "order": 11,
+      "title": "OFFICE TOOL",
+      "desc": "Active Office",
+      "link": "https://example.com/11.exe",
+      "color": "#f59e0b",
+      "btn": "#f59e0b"
+    },
+    {
+      "order": 12,
+      "title": "SYSTEM CLEAN",
+      "desc": "Dọn rác máy",
+      "link": "https://example.com/12.exe",
+      "color": "#64748b",
+      "btn": "#64748b"
+    }
+  ]
+}
