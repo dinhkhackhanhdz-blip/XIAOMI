@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/dinhkhackhanhdz-blip/KHANH_IT/refs/heads/main/logo.ico?v=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KHÁNH IT</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial;
+    color:#fff;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+
+    /* 🔥 CHỐT FIX: chừa chỗ cho chữ chạy */
+    padding-bottom:70px;
+}
+
+.overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.75);
+    z-index:-1;
+}
+
+/* TOP */
+.topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:14px;
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(10px);
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.logo img{
+    width:32px;
+    height:32px;
+    border-radius:6px;
+}
+
+/* HERO */
+.hero{
+    text-align:center;
+    padding:20px;
+}
+
+/* GRID */
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:15px;
+    padding:20px;
+}
+
+/* CARD */
+.card{
+    background:rgba(255,255,255,0.05);
+    border:1px solid rgba(255,255,255,0.1);
+    border-radius:15px;
+    padding:15px;
+    text-align:center;
+}
+
+/* BUTTON PRO */
+button{
+    width:100%;
+    padding:11px;
+    border:none;
+    border-radius:14px;
+    cursor:pointer;
+    font-weight:bold;
+    color:white;
+    background:linear-gradient(90deg,#38bdf8,#0ea5e9,#2563eb);
+    box-shadow:0 0 12px rgba(56,189,248,0.5);
+    transition:0.25s;
+}
+
+button:hover{
+    transform:translateY(-3px);
+    box-shadow:0 0 22px rgba(56,189,248,0.8);
+}
+
+/* CONTACT */
+.contact{
+    text-align:center;
+    padding:20px;
+    padding-bottom:80px; /* 🔥 tránh bị che */
+}
+
+.contact a{
+    display:inline-block;
+    margin:5px;
+    padding:10px 14px;
+    border-radius:10px;
+    text-decoration:none;
+    color:#fff;
+    background:rgba(255,255,255,0.1);
+}
+
+/* 🔥 MARQUEE FIX (đẩy sát đáy nhưng không che) */
+.marquee{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    background:rgba(0,0,0,0.9);
+    padding:10px 0;
+    overflow:hidden;
+    z-index:10;
+    border-top:1px solid rgba(56,189,248,0.3);
+}
+
+.marquee div{
+    white-space:nowrap;
+    display:inline-block;
+    padding-left:100%;
+    animation:run 25s linear infinite;
+    color:#38bdf8;
+    font-weight:bold;
+}
+
+@keyframes run{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-100%);}
+}
+
+/* MUSIC */
+.music-btn{
+    position:fixed;
+    bottom:80px;
+    right:20px;
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background:#38bdf8;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="overlay"></div>
+
+<!-- TOP -->
+<div class="topbar">
+    <div class="logo">
+        <img id="logo">
+        <b>KHÁNH IT STORE BY TIVI XIAOMI</b>
+    </div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+    <h1 id="title"></h1>
+    <p id="subtitle"></p>
+</div>
+
+<!-- GRID -->
+<div class="grid" id="grid"></div>
+
+<!-- CONTACT -->
+<div class="contact" id="contact"></div>
+
+<!-- MARQUEE -->
+<div class="marquee">
+    <div id="marqueeText"></div>
+</div>
+
+<!-- MUSIC -->
+<audio id="music" loop></audio>
+<div class="music-btn" onclick="toggleMusic()">🎵</div>
+
+<script>
+
+/* JSON */
+const DATA_URL = "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/XIAOMI/main/WEBXIAOMI/data.json";
+const LINK_URL = "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/XIAOMI/main/WEBXIAOMI/link.json";
+const CONTACT_URL = "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/XIAOMI/main/WEBXIAOMI/lienhe.json";
+
+/* LOAD */
+async function loadAll(){
+
+    const [d,l,c] = await Promise.all([
+        fetch(DATA_URL + "?t=" + Date.now()),
+        fetch(LINK_URL + "?t=" + Date.now()),
+        fetch(CONTACT_URL + "?t=" + Date.now())
+    ]);
+
+    const data = await d.json();
+    const links = await l.json();
+    const contact = await c.json();
+
+    applyData(data);
+    renderTools(links.tools);
+    renderContact(contact);
+}
+
+/* DATA */
+function applyData(d){
+    document.body.style.backgroundImage = `url('${d.background}')`;
+    document.getElementById("logo").src = d.logo;
+    document.getElementById("title").innerText = d.title;
+    document.getElementById("subtitle").innerText = d.subtitle;
+    document.getElementById("marqueeText").innerText = d.marquee;
+    document.getElementById("music").src = d.music;
+}
+
+/* TOOLS */
+function renderTools(tools){
+
+    const grid = document.getElementById("grid");
+    grid.innerHTML = "";
+
+    tools.forEach(t=>{
+        const div = document.createElement("div");
+        div.className = "card";
+
+        div.innerHTML = `
+            <h3 style="color:${t.color}">${t.title}</h3>
+            <p>${t.desc}</p>
+            <button onclick="dl('${t.link}')">⬇ TẢI NGAY</button>
+        `;
+
+        grid.appendChild(div);
+    });
+}
+
+/* CONTACT */
+function renderContact(data){
+
+    const box = document.getElementById("contact");
+    const c = data.contact;
+
+    box.innerHTML = `<h3>${c.title}</h3>`;
+
+    c.items.forEach(i=>{
+        const a = document.createElement("a");
+        a.href = i.url;
+        a.target = "_blank";
+        a.innerHTML = `${i.icon} ${i.name}`;
+        box.appendChild(a);
+    });
+}
+
+/* DOWNLOAD */
+function dl(url){
+    const a=document.createElement("a");
+    a.href=url;
+    a.click();
+}
+
+/* MUSIC */
+let play=false;
+function toggleMusic(){
+    const m=document.getElementById("music");
+
+    if(!play){
+        m.play();
+        play=true;
+    }else{
+        m.pause();
+        play=false;
+    }
+}
+
+/* INIT */
+window.addEventListener("load", loadAll);
+
+</script>
+
+</body>
+</html>
