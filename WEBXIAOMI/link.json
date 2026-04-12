@@ -85,7 +85,7 @@
       "title": "KHO PHIM",
       "desc": "Truyền hình + VTV",
       "link": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
-      "color": "#f59e0b",
+      "color": "#22c55e",
       "btn": "#f59e0b"
     },
     {
@@ -94,14 +94,14 @@
       "desc": "Mới nhất",
       "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
       "color": "#64748b",
-      "btn": "#64748b"
+      "btn": "#14b8a6"
     },
     {
       "order": 13,
       "title": "DL STORE",
       "desc": "Mới nhất",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/DLStore_v16.0.3.apkk",
-      "color": "#64748b",
+      "color": "#22c55e",
       "btn": "#64748b"
     },
     {
@@ -109,7 +109,7 @@
       "title": "QUẢN LÝ TẬP TIN",
       "desc": "Mới nhất",
       "link": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
-      "color": "#64748b",
+      "color": "#14b8a6",
       "btn": "#64748b"
     },
     {
@@ -133,15 +133,15 @@
       "title": "GIAO DIỆN PROJECTIVE",
       "desc": "Phiên bản 4.70",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
-      "color": "#64748b",
-      "btn": "#64748b"
+      "color": "#14b8a6",
+      "btn": "##22c55e"
     },
     {
       "order": 18,
       "title": "GIAO DIỆN PROJECTIVE",
       "desc": "Phiên bản 4.66",
       "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
-      "color": "#64748b",
+      "color": "#22c55e",
       "btn": "#64748b"
     },
     {
@@ -150,13 +150,13 @@
       "desc": "Mới nhất",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
       "color": "#64748b",
-      "btn": "#64748b"
+      "btn": "#00c853"
     },
     {
       "order": 20,
-      "title": "GIAO DIỆN EMONT UI",
+      "title": "KHỞI ĐỘNG APP HOME",
       "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/SET.apk",
       "color": "#64748b",
       "btn": "#64748b"
     },
@@ -165,7 +165,7 @@
       "title": "SETTING TIẾNG VIỆT",
       "desc": "Mới nhất",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
-      "color": "#64748b",
+      "color": "#14b8a6",
       "btn": "#64748b"
     },
     {
@@ -174,22 +174,22 @@
       "desc": "Mới nhất",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
       "color": "#64748b",
-      "btn": "#64748b"
+      "btn": "#00c853"
     },
     {
       "order": 23,
-      "title": "GIAO DIỆN EMONT UI",
+      "title": "FIX YOUTOBE",
       "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
       "color": "#64748b",
       "btn": "#64748b"
     },
     {
       "order": 24,
-      "title": "GIAO DIỆN EMONT UI",
+      "title": "KHO APP BY KHÁNH IT",
       "desc": "Mới nhất",
-      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
-      "color": "#64748b",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
+      "color": "#14b8a6",
       "btn": "#64748b"
     }
   ]
