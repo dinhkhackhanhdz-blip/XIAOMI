@@ -2,25 +2,25 @@
   "tools": [
     {
       "order": 1,
-      "title": "TOOL CÀI ONLINE PC",
+      "title": "GIAO DIỆN GỐC OLD",
       "desc": "Cài giao diện projective",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/TOOL.KHANH.IT.PROJECT.V3.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/DIENMAYNGUYENDUC.exe",
       "color": "#ef4444",
       "btn": "red"
     },
     {
       "order": 2,
       "title": "TOOL CÀI ONLINE PC",
-      "desc": "Cài giao diện fire launcher",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
+      "desc": "Cài giao diện V1",
+      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/v1.exe",
       "color": "#facc15",
       "btn": "#eab308"
     },
     {
       "order": 3,
       "title": "TOOL CÀI ONLINE PC",
-      "desc": "Cài giao diện home tv",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHANHIT_CRACK_V2.exe",
+      "desc": "Cài giao diện 12/4",
+      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/KHANHITXIAOMIV2.exe",
       "color": "#00c853",
       "btn": "#00c853"
     },
