@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "update_url": "",
+  "apps": [
+    {
+      "id": "ultraviewer",
+      "name": "UltraViewer",
+      "desc": "Điều khiển máy tính từ xa",
+      "version": "6.6.124",
+      "type": "exe",
+      "url": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
+      "silent": "/S",
+      "icon": "",
+      "size": "5MB",
+      "group": "PC TOOL",
+      "runAfterInstall": false
+    },
+    {
+      "id": "coccoc",
+      "name": "Cốc Cốc",
+      "desc": "Trình duyệt web",
+      "version": "latest",
+      "type": "exe",
+      "url": "https://files.coccoc.com/browser/coccoc_en.exe",
+      "silent": "/silent /install",
+      "icon": "",
+      "size": "",
+      "group": "PC TOOL",
+      "runAfterInstall": true
+    },
+    {
+      "id": "projectivy470",
+      "name": "Projectivy Launcher",
+      "desc": "Launcher Android TV",
+      "version": "4.70",
+      "type": "apk",
+      "url": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
+      "adb": "install",
+      "group": "TV APP"
+    },
+    {
+      "id": "youtube_fix",
+      "name": "Fix YouTube",
+      "desc": "Fix lỗi YouTube TV",
+      "version": "43",
+      "type": "apk",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+      "adb": "install",
+      "group": "FIX"
+    }
+  ]
+}
