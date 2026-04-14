@@ -10,6 +10,7 @@
       "type": "exe",
       "url": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
       "silent": "/S",
+      "adb": "",
       "icon": "",
       "size": "5MB",
       "group": "PC TOOL",
@@ -23,6 +24,7 @@
       "type": "exe",
       "url": "https://files.coccoc.com/browser/coccoc_en.exe",
       "silent": "/silent /install",
+      "adb": "",
       "icon": "",
       "size": "",
       "group": "PC TOOL",
@@ -35,8 +37,12 @@
       "version": "4.70",
       "type": "apk",
       "url": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
+      "silent": "",
       "adb": "install",
-      "group": "TV APP"
+      "icon": "",
+      "size": "",
+      "group": "TV APP",
+      "runAfterInstall": false
     },
     {
       "id": "youtube_fix",
@@ -45,8 +51,12 @@
       "version": "43",
       "type": "apk",
       "url": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+      "silent": "",
       "adb": "install",
-      "group": "FIX"
+      "icon": "",
+      "size": "",
+      "group": "FIX",
+      "runAfterInstall": false
     }
   ]
 }
