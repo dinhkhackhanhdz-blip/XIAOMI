@@ -396,12 +396,12 @@
     "entertainment": {
       "apps": [
          {
-          "name": "Netflix",
-          "versionName": "9.53.0",
+          "name": "PROJECT LAUNCHER PREMIUM",
+          "versionName": "4.66",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/PROJECTLAUCER6.68.apk",
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"]
         },
         {
           "name": "3 - GIAO DIỆN FIRE LAUNCHER",
