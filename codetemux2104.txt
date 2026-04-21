@@ -14,8 +14,8 @@ NC='\033[0m'
 banner_menu1() {
   echo -e "${BLUE}📡 MENU KẾT NỐI TIVI XIAOMI PRO${NC}"
   echo -e "${WHITE}👨‍💻 Khánh IT | ☎ 0967.341.608${NC}"
-  echo -e "${WHITE}📦 Phiên bản: 4.68${NC}"
-  echo -e "${WHITE}⚠️ CẬP NHẬT PHIÊN BẢN: 21-04-2026${NC}"
+  echo -e "${WHITE}📦    Phiên bản: 4.68${NC}"
+  echo -e "${WHITE}⚠️ Bản Cập Nhật: 21-04-2026${NC}"
 
   echo -e "${BLUE}────────────────────────────${NC}"
 
@@ -40,17 +40,17 @@ banner_menu1() {
 banner_menu2() {
   echo -e "${GREEN}=======================================${NC}"
   echo -e "${GREEN}🚀 CÔNG CỤ CÀI ĐẶT TIVI XIAOMI TỰ ĐỘNG${NC}"
-  echo -e "${WHITE}👨‍💻 Khánh IT - 0967.341.608${NC}"
+  echo -e "${WHITE}👨‍💻 Khánh IT - 0967.341.608 - 4.68${NC}"
   echo -e "${GREEN}---------------------------------------${NC}"
 
   echo -e "$TV_INFO_LINE"
 
   echo ""
-  echo -e "${CYAN}📝 HƯỚNG DẪN SỬ DỤNG${NC}"
+  echo -e "${CYAN}📝  HƯỚNG DẪN SỬ DỤNG${NC}"
 
   echo -e "${WHITE}👉 Bước 1:${NC} Chọn ${GREEN}1${NC} hoặc ${YELLOW}2${NC} hoặc ${CYAN}9${NC} để tải file"
   echo -e "${WHITE}👉 Bước 2:${NC} Chọn ${BLUE}3${NC} hoặc ${MAGENTA}4${NC} để cài đặt"
-  echo -e "${WHITE}👉 Bước 3:${NC} Chọn các chức năng khác nếu cần (mục 5,6,7)"
+  echo -e "${WHITE}👉 Bước 3:${NC} Chọn các chức năng khác nếu cần (mục ${CYAN}5${NC},6,${BLUE}7${NC})"
   echo -e "${WHITE}👉 Bước 4:${NC} Chọn ${RED}8${NC} để khởi động lại TV"
 
   echo ""
@@ -66,7 +66,7 @@ banner_menu2() {
   echo -e "${BLUE}📤 7. Lấy file từ TV về điện thoại${NC}"
   echo -e "${RED}🔄 8. Khởi động lại TV${NC}"
   echo -e "${CYAN}🌐 9. Tải ứng dụng từ JSON về Điện Thoại (GitHub)${NC}"
-  echo -e "${YELLOW}↩️ 0. Quay lại MENU KẾT NỐI${NC}"
+  echo -e "${YELLOW}↩️  0. Quay lại MENU KẾT NỐI${NC}"
 
   echo -e "${CYAN}=======================================${NC}"
 }
