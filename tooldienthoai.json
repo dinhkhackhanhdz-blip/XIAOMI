@@ -1,0 +1,72 @@
+{
+  "apps": [
+    {
+      "name": "Projectivy Launcher",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.spocky.projengmenu.apk"
+    },
+    {
+      "name": "Leanback Keyboard",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.liskovsoft.leankeyboard.apk"
+    },
+    {
+      "name": "Google Voice",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.google.android.katniss.apk"
+    },
+    {
+      "name": "File Manager",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.alphainventor.filemanager.apk"
+    },
+    {
+      "name": "USB Tool",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.dl.usb.apk"
+    },
+    {
+      "name": "YouTube TV",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.google.android.youtube.tv.apk"
+    },
+    {
+      "name": "VTV App",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/vn.khanhtv.vtv.apk"
+    },
+    {
+      "name": "Map Voice",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.linor.vn.mapVoice.apk"
+    },
+    {
+      "name": "App Drawer",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.tranducanh.appdrawer.apk"
+    },
+    {
+      "name": "DL Store",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.dinhlap.dlstore.apk"
+    },
+    {
+      "name": "TikTok Lite",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.zhiliaoapp.musically.go.apk"
+    },
+    {
+      "name": "Xem TV Beta",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.kt.apps.media.xemtv.beta.apk"
+    },
+    {
+      "name": "Cài đặt TV",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/com.android.tv.settings.apk"
+    },
+    {
+      "name": "Khanh Store",
+      "url": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/khanhstore-6.9.6.apk"
+    },
+    {
+      "name": "Ảnh con hổ",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/anhconho.jpg"
+    },
+    {
+      "name": "Ảnh con vẹt",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/anhconvet1.jpg"
+    },
+    {
+      "name": "Backup Projectivy",
+      "url": "https://github.com/dinhkhackhanhdz-blip/khanhtool/releases/download/adb/projectiv1.plbackup"
+    }
+  ]
+}
