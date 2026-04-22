@@ -2,25 +2,25 @@
   "tools": [
     {
       "order": 1,
-      "title": "GIAO DIỆN GỐC OLD",
-      "desc": "Cài giao diện projective",
+      "title": "GIAO DIỆN PROJECTIVY",
+      "desc": "Cài giao diện projective by điện máy nguyễn đức",
       "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/DIENMAYNGUYENDUC.exe",
       "color": "#ef4444",
       "btn": "red"
     },
     {
       "order": 2,
-      "title": "TOOL CÀI ONLINE PC",
-      "desc": "Cài giao diện V1",
-      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/v1.exe",
+      "title": "GIAO DIỆN HOME TV",
+      "desc": "Cài giao diện điện máy nguyễn đức",
+      "link": "https://github.com/khanhitpro/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/Home_TV_20_vDienMayNguyenDuc.zip",
       "color": "#facc15",
       "btn": "#eab308"
     },
     {
       "order": 3,
-      "title": "TOOL CÀI ONLINE PC",
-      "desc": "Cài giao diện 12/4",
-      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/KHANHITXIAOMIV2.exe",
+      "title": "GIAO DIỆN FIRE LAUNCHER",
+      "desc": "Cài giao diện fire laucher",
+      "link": "https://github.com/khanhitpro/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/miduclinh.zip",
       "color": "#00c853",
       "btn": "#00c853"
     },
