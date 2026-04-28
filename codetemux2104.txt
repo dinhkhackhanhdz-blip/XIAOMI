@@ -476,8 +476,7 @@ projectivy_install() {
   adb install -r "$DIR/com.spocky.projengmenu.apk" | tr -d '\n'
   echo " $( [ ${PIPESTATUS[0]} -eq 0 ] && echo "✅ OK" || echo "❌ Lỗi" )"
 
-  printf "🚫 Disable com.mitv.tvhome ... "
-  adb shell pm disable-user --user 0 com.mitv.tvhome && echo "✅ OK" || echo "❌ Lỗi"
+
 
   # ===== CONFIG =====
   echo "Cấu hình Giờ Việt Nam..."
