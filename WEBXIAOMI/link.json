@@ -186,72 +186,72 @@
     },
     {
       "order": 24,
-      "title": "GIAO DIỆN PROJECTIVE",
-      "desc": "Phiên bản 4.66",
-      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
+      "title": "VieON",
+      "desc": "Phiên bản 2.5",
+      "link": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
       "color": "#22c55e",
       "btn": "#64748b"
     },
     {
       "order": 25,
-      "title": "SET PHÍM HOME GIAO DIỆN",
+      "title": "Galaxy Play",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
+      "link": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
       "color": "#64748b",
       "btn": "#00c853"
     },
     {
       "order": 26,
-      "title": "KHỞI ĐỘNG APP HOME",
+      "title": "iQIYI",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/SET.apk",
+      "link": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
       "color": "#64748b",
       "btn": "#64748b"
     },
     {
       "order": 27,
-      "title": "SETTING TIẾNG VIỆT",
+      "title": "TV360 - VIETTEL",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
+      "link": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
       "color": "#14b8a6",
       "btn": "#64748b"
     },
     {
       "order": 28,
-      "title": "TRÌNH TẢI APK CHO XIAOMI",
+      "title": "VTVGO",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+      "link": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
       "color": "#64748b",
       "btn": "#00c853"
     },
     {
       "order": 29,
-      "title": "FIX YOUTOBE",
+      "title": "VietPlay TV",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+      "link": "https://github.com/anhbaotv/pl/releases/download/ungdung/VietPlay.TV.v.2.2.apk",
       "color": "#64748b",
       "btn": "#64748b"
     },
     {
       "order": 30,
-      "title": "KHO APP BY KHÁNH IT",
+      "title": "MY TV -  VNPT",
       "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
+      "link": "https://github.com/anhbaotv/pl/releases/download/ungdung/MyTV.v.3.52.0_431_2206141108.apk",
       "color": "#14b8a6",
       "btn": "#64748b"
     },
     {
       "order": 31,
       "title": "KHO APP BY KHÁNH IT",
-      "desc": "Mới nhất",
-      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
+      "desc": "Mới nhất 6.9.6",
+      "link": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/khanhstore-6.9.6_XIAOMI.apk",
       "color": "#14b8a6",
       "btn": "#64748b"
     },
     {
       "order": 32,
       "title": "KHO APP BY KHÁNH IT",
-      "desc": "Mới nhất",
+      "desc": "Mới nhất BẢN USB 6.8.8",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
       "color": "#14b8a6",
       "btn": "#64748b"
