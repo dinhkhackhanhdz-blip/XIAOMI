@@ -3,16 +3,16 @@
     {
       "order": 1,
       "title": "GIAO DIỆN PROJECTIVY",
-      "desc": "Cài giao diện projective by điện máy nguyễn đức",
-      "link": "https://github.com/dinhkhackhanhdz-blip/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/DIENMAYNGUYENDUC.exe",
+      "desc": "Cài giao diện projective phí 150k không logo shop",
+      "link": "https://github.com/khanhitpro/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/DICH.VU.CAI.DAT.TIVI.XIAOMI.ONLINE.30T42026.exe",
       "color": "#ef4444",
       "btn": "red"
     },
     {
       "order": 2,
-      "title": "GIAO DIỆN HOME TV",
-      "desc": "Cài giao diện điện máy nguyễn đức",
-      "link": "https://github.com/khanhitpro/TOOL-CAI-TIVI-XIAOMI/releases/download/TOOL/Home_TV_20_vDienMayNguyenDuc.zip",
+      "title": "GIAO DIỆN PROJECTIVY DỰ PHÒNG",
+      "desc": "Cài giao diện projective phí 150k không logo shop - DỰ PHÒNG",
+      "link": "https://drive.google.com/drive/folders/1GeePBW1Ixd7iIx-40-Rs3q08Vbiv6a5O?usp=drive_link",
       "color": "#facc15",
       "btn": "#eab308"
     },
@@ -186,6 +186,70 @@
     },
     {
       "order": 24,
+      "title": "GIAO DIỆN PROJECTIVE",
+      "desc": "Phiên bản 4.66",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
+      "color": "#22c55e",
+      "btn": "#64748b"
+    },
+    {
+      "order": 25,
+      "title": "SET PHÍM HOME GIAO DIỆN",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
+      "color": "#64748b",
+      "btn": "#00c853"
+    },
+    {
+      "order": 26,
+      "title": "KHỞI ĐỘNG APP HOME",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/SET.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 27,
+      "title": "SETTING TIẾNG VIỆT",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
+      "color": "#14b8a6",
+      "btn": "#64748b"
+    },
+    {
+      "order": 28,
+      "title": "TRÌNH TẢI APK CHO XIAOMI",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+      "color": "#64748b",
+      "btn": "#00c853"
+    },
+    {
+      "order": 29,
+      "title": "FIX YOUTOBE",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+      "color": "#64748b",
+      "btn": "#64748b"
+    },
+    {
+      "order": 30,
+      "title": "KHO APP BY KHÁNH IT",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
+      "color": "#14b8a6",
+      "btn": "#64748b"
+    },
+    {
+      "order": 31,
+      "title": "KHO APP BY KHÁNH IT",
+      "desc": "Mới nhất",
+      "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
+      "color": "#14b8a6",
+      "btn": "#64748b"
+    },
+    {
+      "order": 32,
       "title": "KHO APP BY KHÁNH IT",
       "desc": "Mới nhất",
       "link": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/2_khanh_store_usb_6.8.8.apk",
