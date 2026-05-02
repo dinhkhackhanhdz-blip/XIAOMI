@@ -719,11 +719,21 @@
           ]
         },
         {
+          "name": "HOME TV TO ĐÌNH LẬP V1",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/Home_TV_vDienMayNguyenDuc.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          ]
+        },
+        {
           "name": "HOME TV TO ĐÌNH LẬP V2",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Home_TV_v16.0.2vs18-DinhLapTo18-Lap_1000.apk",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/Home_TV_TiviXiaomiHaiPhong.apk",
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
           ]
